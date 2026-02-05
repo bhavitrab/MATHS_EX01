@@ -1,12 +1,16 @@
 -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Aim:
+<h4>Aim:</h4>
 To write a python program to find a solution to a system of linear equations.
 
-Equipment’s required:
+<h4>Equipment’s required:</h4>
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Moodle-Code Runner
-Algorithm:
+
+
+<h4>Algorithm:</h4>
+
+
 Step 1:
 Import the numpy module to use the built-in functions for calculation
 
